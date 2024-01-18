@@ -16,3 +16,6 @@ DVLA RELATIONAL DATABASE PRACTICE
     4. List the car registrations, renewal dates, and road tax due for 6 and 12 months for all cars owned by a specified person
     5. List the registrations, owners name and address, co2 levels and the 6 and 12 months tax due for all owners of all vehicles for tax due in a given month
     6. List tax class, tax rate for 6 and 12 months, and owner first and last name given owner ID.
+
+    STRING SEARCH AND MATCH
+      A program that performs a fuzzy string search on several files and prints matching results to standard output.  The user must input the path to a directory, a search phrase, and a similarity threshold. The directory consisted of the most frequently downloaded eBooks. The resulting output of phrases from these books was meant to be matched to the given search phrase by first cleaning each series of words, then splitting them into bigrams, and finally calculating the Jaccard coefficient.
