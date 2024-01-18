@@ -1,8 +1,0 @@
-referenceNum, color, purchaseDate, MOTStatus, dateLastMOTed, renewalDate, ownerID, make
-22222, blue, 2010-11, TRUE, 2011-11, 2023-11, 24321, sorento
-33333, gray, 2005-10, TRUE, 2015-08, 2023-11, 24321, MINI cooper
-44444, blue, 2020-06, FALSE, 2011-01, 2023-11, 56462, wrangler
-56789, white, 2017-05, TRUE, 2020-11, 2023-05, 24689, infiniti
-77777, red, 2002-01, FALSE, 2017-01, 2023-01, 42876, wrangler
-88888, white, 2019-06, TRUE, 2021-06, 2023-06, 56942, sorento
-87878, pink, 2007-04, TRUE, 2020-04, 2023-04, 56942, MINI cooper
