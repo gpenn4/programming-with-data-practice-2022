@@ -18,4 +18,4 @@ DVLA RELATIONAL DATABASE PRACTICE
     6. List tax class, tax rate for 6 and 12 months, and owner first and last name given owner ID.
 
     STRING SEARCH AND MATCH
-      A program that performs a fuzzy string search on several files and prints matching results to standard output.  The user must input the path to a directory, a search phrase, and a similarity threshold. The directory consisted of the most frequently downloaded eBooks. The resulting output of phrases from these books was meant to be matched to the given search phrase by first cleaning each series of words, then splitting them into bigrams, and finally calculating the Jaccard coefficient.
+      A program that performs a fuzzy string search on several files and prints matching results to standard output. The suer must input the path to a directory, a search phrase, and a similarity threshold. The firectory consisted of the most frequently downloaded eBooks. The resulting output of phrases from these books is matched to the given search phrase by first cleaning each series of words, then splitting them into bigrams, and finally calculating the Jaccard coefficient.
