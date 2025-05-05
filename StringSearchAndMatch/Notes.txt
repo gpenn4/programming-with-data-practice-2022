@@ -1,9 +1,0 @@
-To export classpath
-    export CLASSPATH=${CLASSPATH}:spark/*:apache-maven-3.8.5/libs/*:.
-
-To compile 
-    javac *.java
-
-To run
-    java CS1003P4 data/ "term/ phrase to be searched" double 2> /dev/null
-            **double = desired similarity threshold
